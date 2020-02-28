@@ -1,29 +1,26 @@
-# colaborative-library
+# Collaborative Library
+SPA (Single Page Application) para skills test da HeroSpark
+
+## Dependências
+- NodeJS estável e no Path
+- NPM Atualizado
 
 ## Project setup
-```
-npm install
-```
+- Baixe o repositório
+- Baixe os módulos com o comando `npm install`
+- Instale o json server através do comando `npm install` dentro da pasta **/server**
 
-### Compiles and hot-reloads for development
+### Compilar para development (inicia o server local e o json server)
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar e minificar para produção
 ```
 npm run build
 ```
 
-### Run your unit tests
+### Rodar testes unitários
 ```
 npm run test:unit
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
