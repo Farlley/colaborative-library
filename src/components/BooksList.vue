@@ -69,7 +69,7 @@ export default {
     itemsPerPage: {
       type: Number,
       required: false,
-      default: 3
+      default: 4
     },
     userId: {
       type: Number,
