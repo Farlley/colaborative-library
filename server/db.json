@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": 13618055,
+      "name": "Salvador Souza",
+      "email": "Lucas_Santos@hotmail.com",
+      "password": "WiKnWDhHNrkOWYj"
+    },
+    {
+      "id": 62945674,
+      "name": "Marcela Braga",
+      "email": "gor_Martins@gmail.com",
+      "password": "n_XbowedO6BTk3k"
+    },
+    {
+      "id": 27940466,
+      "name": "Heitor Silva",
+      "email": "Marcos.Costa32@live.com",
+      "password": "jE9EaIe7ZwzdCua"
+    },
+    {
+      "email": "farlley.barbosa@gmail.com",
+      "password": "123456",
+      "name": "Farlley",
+      "id": 62945675
+    },
+    {
+      "email": "email@email.com",
+      "password": "123456",
+      "name": "Nome",
+      "id": 62945676
+    }
+  ],
+  "books": [
+    {
+      "id": 89132676,
+      "name": "Introdução à Programação com Python",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qoFdDmLqL._SX360_BO1,204,203,200_.jpg",
+      "userId": 13618055,
+      "loan": {
+        "userId": 62945676,
+        "date": "2020-02-28"
+      }
+    },
+    {
+      "id": 23839918,
+      "name": "Programação profissional em HTML 5",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ppKPhP4HL._SR600,315_SCLZZZZZZZ_.jpg",
+      "userId": 27940466,
+      "loan": false
+    },
+    {
+      "id": 26157405,
+      "name": "JavaScript - Aprenda a Programar",
+      "image": "http://www.editoraviena.com.br/%2Fimagens_02%2Fprodutos%2F2018-10-01_01-51-37-JavaScript.jpg",
+      "userId": 13618055,
+      "loan": {
+        "userId": 62945674,
+        "date": "2019-07-27"
+      }
+    },
+    {
+      "id": 70618749,
+      "name": "O poder do hábito",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51VFNJGBvqL._SX346_BO1,204,203,200_.jpg",
+      "userId": 62945674,
+      "loan": false
+    },
+    {
+      "id": 37035418,
+      "name": "Empreendedorismo e jovens empreendedores",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416X75jsQWL._SY346_.jpg",
+      "userId": 62945674,
+      "loan": false
+    },
+    {
+      "id": 85849640,
+      "name": "Desconstruindo o SEO - A Pirâmide Invertida",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KyfqjZHLL.jpg",
+      "userId": 13618055,
+      "loan": {
+        "userId": 62945674,
+        "date": "2019-03-19"
+      }
+    },
+    {
+      "id": 25173189,
+      "name": "Marketing Digital na Prática: Como criar do zero uma estratégia de marketing digital para promover negócios ou produtos",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41t3nagAjoL._SX341_BO1,204,203,200_.jpg",
+      "userId": 13618055,
+      "loan": false
+    },
+    {
+      "id": 35761134,
+      "name": "Vue: Step-By-Step Guide To Mastering Vue.js From Beginner To Advanced",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/418NnKr2KKL.jpg",
+      "userId": 27940466,
+      "loan": {
+        "userId": 62945674,
+        "date": "2019-06-03"
+      }
+    },
+    {
+      "id": 33828773,
+      "name": "Por que fazemos o que fazemos?",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xH0mWSeGL._SX331_BO1,204,203,200_.jpg",
+      "userId": 46381003,
+      "loan": false
+    },
+    {
+      "name": "Vade Mecum Saraiva 2020 - Tradicional - 29ª Edição: Atualizado Com o Pacote Anticrime",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Fj4HIKF8L._SX350_BO1,204,203,200_.jpg",
+      "description": "Pioneira na exemplar técnica desenvolvida de atualização de Códigos e Legislação, como comprova o avançado número de suas edições e versões, a Editora Saraiva apresenta a edição aumentada e atualizada de sua principal obra: o Vade Mecum Saraiva. Acréscimo de importantes diplomas (entre leis, decretos, regimentos internos etc.), com destaque para: - Código Penal Militar, Código de Processo Penal Militar, Estatuto dos Militares e Estatuto da Terra - Legislação Previdenciária - Principais Convenções Internacionais - Regimentos Internos do STF e do STJ (divisão exclusiva = agilidade na pesquisa) Conteúdo criteriosamente selecionado com base na grade curricular das principais faculdades de direito e em editais de concursos para carreiras jurídicas. Estrutura pensada de forma a proporcionar o maior número de diplomas legislativos sem comprometer a legibilidade e o trabalho editorial. As notas de correlação entre as matérias, já tão tradicionais nas obras de legislação Saraiva, foram mantidas, assim como os índices multifuncionais, que permitem rápida localização de assuntos por ordem alfabética, cronológica, pelo número do diploma ou por seu tema. Tradição, organização e estrutura, aliadas à confiabilidade do nome Saraiva, explicam que seja há mais de 10 anos o produto de legislação mais vendido no mercado. Últimas Atualizações da 29.ª edição: • Constituição Federal Reforma da Previdência Social (EC 103) Polícias penais (EC 104) Transferência de recursos federais (EC 105) • Código Civil Atualizado pela Lei n.13.874/2019 (Liberdade econômica): Autonomia patrimonial da PJ (art. 49-A) Desconsideração da personalidade jurídica (art. 50) Fundos de investimento (arts. 1.368-C a 1.368-F) Interpretação contratual e dos negócios jurídicos (arts. 113, 421 e 421-A) Sociedade limitada unipessoal (arts. 980-A e 1.052) • Código de Processo Civil Processos relacionados a vítimas de violência doméstica (Lei n.13.894/2019) • Código Penal Incitação a suicídio ou automutilação (Lei n.13.968/2019) Pacote anticrime (Lei n. 13.964/2019) • Código de Processo Penal Pacote anticrime (Lei n.13.964/2019) • Código de Processo Penal Militar Inquérito policial militar (Lei n.13.964/2019) • Código Eleitoral Crime de denunciação caluniosa com finalidade eleitoral (Lei n.13.834/2019) • Código de Trânsito Brasileiro Transporte irregular de passageiros (Lei n.13.855/2019) • Código Florestal Proteção da vegetação nativa (Lei n.13.887/2019) • CLT Contrato Verde e Amarelo (MP n. 905/2019) Controle de ponto e CTPS digital (Lei n.13.874/2019) • Estatuto dos Militares Reestruturação da carreira militar (Lei n.13.954/2019) • Estatuto da Criança e do Adolescente Criança ou adolescente - direito de estudar na mesma escola que o irmão (Lei n.13.845/2019) • Estatuto da OAB Prazos de exercício da profissão para participação nas eleições dos membros dos órgãos da OAB (Lei n.13.875/2019) • Estatuto da Microempresa Sociedade de garantia solidária e de contragarantia (LC n.169/2019) Abuso de autoridade (Lei n.13.869/2019) Agências Reguladoras (Lei n.13.848/2019) Cargos em comissão (Decreto n.9.916/2019) Conselho de Controle de Atividades Financeiras - Coaf (Lei n.13.974/2020) Conselho Nacional de Políticas sobre Drogas (Decreto n.9.926/2019) Contrato de Trabalho Verde e Amarelo (MP n.905/2019) Convenção Internacional para a Supressão de Atos de Terrorismo Nuclear (Decreto n.9.967/2019) Crédito rural (MP n.897/2019) Desarmamento – Regulamentos (Decretos n.9.845, 9.846 e 9.847/2019) DPVAT (MP n.904/2019) Liberdade econômica – regulamentação do risco das atividades econômicas (Decreto n.10.178/2019) Liberdade econômica (Lei n.13.874/2019) Licitação por pregão eletrônico (Decreto n.10.024/2019) LINDB – Regulamento (Decreto n.9.830/2019) Pacote Anticrime (Lei n.13.964/2019) Seguro de fiança locatícia (Circular n.587/2019) Trabalho temporário – regulamento (Decreto n.10.060/2019) Transação resolutiva de litígio tributário (MP n.899/2019)",
+      "userId": 27940466,
+      "loan": false,
+      "id": 89132677
+    },
+    {
+      "name": "Livro Teste",
+      "image": "url teste",
+      "description": "Descrição teste",
+      "userId": 27940466,
+      "loan": false,
+      "id": 89132678
+    }
+  ]
+}
