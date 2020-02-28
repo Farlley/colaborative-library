@@ -19,6 +19,18 @@ const routes = [
     name: 'Register',
     path: '/register',
     component: () => import('@/views/Register')
+  },
+  {
+    name: 'Book',
+    path: '/book',
+    component: () => import('@/views/Book'),
+    props: true
+  },
+  {
+    name: 'MyBooks',
+    path: '/my-books',
+    component: () => import('@/views/MyBooks'),
+    props: true
   }
 ]
 
