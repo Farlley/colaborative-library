@@ -59,7 +59,6 @@ export default {
         this.$store
           .dispatch(LOGIN, data)
           .then(() => this.$router.push({ name: 'Home' }))
-          .catch(() => this.errors.push('Login não encontrado'))
       } else {
         this.errors = []
         if (!this.email) {
