@@ -27,9 +27,21 @@ const routes = [
     props: true
   },
   {
+    name: 'BookNew',
+    path: '/books/new',
+    component: () => import('@/views/BookNew'),
+    props: true
+  },
+  {
     name: 'MyBooks',
     path: '/my-books',
     component: () => import('@/views/MyBooks'),
+    props: true
+  },
+  {
+    name: 'MyLoans',
+    path: '/my-loans',
+    component: () => import('@/views/MyLoans'),
     props: true
   }
 ]

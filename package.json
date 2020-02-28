@@ -2,6 +2,8 @@
   "name": "colaborative-library",
   "version": "0.1.0",
   "private": true,
+  "description": "A HeroSpark skills test",
+  "author": "Farlley Barbosa <farlley.barbosa@gmail.com>",
   "scripts": {
     "serve": "concurrently --kill-others \"vue-cli-service serve\" \"npm run serve --prefix server\"",
     "build": "vue-cli-service build",

@@ -17,18 +17,6 @@
       "name": "Heitor Silva",
       "email": "Marcos.Costa32@live.com",
       "password": "jE9EaIe7ZwzdCua"
-    },
-    {
-      "email": "farlley.barbosa@gmail.com",
-      "password": "123456",
-      "name": "Farlley",
-      "id": 62945675
-    },
-    {
-      "email": "email@email.com",
-      "password": "123456",
-      "name": "Nome",
-      "id": 62945676
     }
   ],
   "books": [
@@ -114,14 +102,6 @@
       "userId": 27940466,
       "loan": false,
       "id": 89132677
-    },
-    {
-      "name": "Livro Teste",
-      "image": "url teste",
-      "description": "Descrição teste",
-      "userId": 27940466,
-      "loan": false,
-      "id": 89132678
     }
   ]
 }
